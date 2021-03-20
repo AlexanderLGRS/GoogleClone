@@ -63,7 +63,7 @@ body {
 }
 .main__search__input {
   font-size: 1.7rem;
-  width: 80%;
+  width: 100%;
   outline: none;
   border: none;
 }
